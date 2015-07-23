@@ -1,7 +1,7 @@
 <?php
 
 $EM_CONF[$_EXTKEY] = array(
-    'title' => 'dummy_ter_ext',
+    'title' => 'autoupload_dummy',
     'decription' => 'Test extension for TYPO3',
     'category' => 'example',
     'author' => 'Valentin Despa',
